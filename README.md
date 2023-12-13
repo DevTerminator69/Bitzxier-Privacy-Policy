@@ -40,4 +40,3 @@
 ## My Question is not in the list
 
 - Join our [support server](https://discord.gg/bitzxier)
-- Server invite is invaild, Mail us
