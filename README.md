@@ -13,7 +13,7 @@
 
 # Does it see our messages?
 
-- Bot checks your message, it contains blacklisted word or not for Automod, Anti-blacklist System
+- Bot checks your message, it contains blacklisted word or not for Automod, Anti-blacklist System, Antinuke AntiEveryone or Mainrole System 
 
 # Who can access the server data?
 
@@ -28,7 +28,7 @@
 
 ### It stores -
 
-- Server ID to store other server data(autoroles, Members Info, whitelisted data for antinuke)
+- Server ID to store other server data(autoroles, Members Info, whitelisted data for antinuke, mainrole , nightmode)
 - Blacklisted User ids
 
 ## Remove Your Data And Data Retention.
