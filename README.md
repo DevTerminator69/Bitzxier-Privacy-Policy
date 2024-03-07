@@ -1,42 +1,31 @@
-# Bitzxier-Privacy-Policy
+# Bitzxier Privacy Policy
 
-> Bitzxier Privacy Policy
+Thank you for choosing Bitzxier! This Privacy Policy outlines how we collect, use, and protect your data when you use our service. By using Bitzxier, you agree to the terms outlined in this policy.
 
-**This Service is provided at no cost and is intended for use as is. This page is used to inform visitors regarding the bot's policies with the collection, use, and disclosure of a data if anyone decided to use my Service. If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. The data that we collect is used for providing and improving the Service. We will not use or share your information with anyone. The terms used in this Privacy Policy have the same meanings as in our Terms and Condition. unless otherwise defined in this Privacy Policy**
+## Collection of Data
 
-## By using Bitzxier you accept it's Privacy Policy and [discord tos](https://discord.com/terms) & [discord guidelines](https://discord.com/guidelines)
+Bitzxier is a free service, and we do not charge any fees for its use. We collect certain data to provide and improve our service. The data we collect includes:
 
-# What does it store?
+- Server IDs: We collect server IDs to manage server-specific settings such as self-roles, anti-nuke measures, giveaways, welcome messages, and member information. This data is stored securely using AES encryption standards.
 
-- Server IDS for Server's Data(Selfroles , Antinuke , Giveaway , Welcome , Members Info)
-- data are stored & secured using AES Encryption standards.
+## Use of Data
 
-# Does it see our messages?
+We do not use or share your information with any third parties. The data collected is solely used for providing and enhancing the Bitzxier service. The terms used in this Privacy Policy are in accordance with our Terms and Conditions, unless otherwise specified.
 
-- Bot checks your message, it contains blacklisted word or not for Automod, Anti-blacklist System, Antinuke AntiEveryone or Mainrole System 
+## Message Monitoring
 
-# Who can access the server data?
+Bitzxier monitors messages to enforce automated moderation features such as automod, anti-blacklist system, anti-nuke measures, and main role assignments. This is done to maintain a safe and enjoyable environment within Discord servers.
 
-- Server Owner
-- Server Adminstrators
+## Access to Server Data
 
-# Following People Can Access all of the data
+Access to server data is limited to server owners and administrators. Additionally, bot developers have access to all data for maintenance and improvement purposes.
 
-- Bot Developers
+## Data Storage and Retention
 
-## Why do we store the data?
+We store server data, including configurations and blacklisted user IDs, for up to 7 days after the bot is removed from a Discord server. This allows for seamless reconfiguration if the bot is re-added within that timeframe. If you wish to have your data removed permanently, you may request it from the developer.
 
-### It stores -
+## Contact Us
 
-- Server ID to store other server data(autoroles, Members Info, whitelisted data for antinuke, mainrole , nightmode)
-- Blacklisted User ids
+If you have any questions or concerns regarding our Privacy Policy, please feel free to contact us through our support server: [Bitzxier Support Server](https://discord.gg/bitzxier).
 
-## Remove Your Data And Data Retention.
-
-- Even if you remove the bot from your Discord server, we store the data for around 30 days so that if you re add the bot you wont lose any configuration within 30 days of bot removal.
-- If you want to have it removed, you can have the rights to request the developer to do so. Once deleted, its not possible to
-- Contact us to remove your data
-
-## My Question is not in the list
-
-- Join our [support server](https://discord.gg/bitzxier)
+Thank you for entrusting Bitzxier with your data. We are committed to maintaining your privacy and providing a secure service.
