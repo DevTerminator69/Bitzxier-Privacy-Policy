@@ -1,6 +1,4 @@
-Here’s a tailored Privacy Policy for the bot **Fairy**, incorporating features such as automod, anti-spam, and other functionalities similar to those mentioned:
 
----
 
 # Fairy Privacy Policy
 
