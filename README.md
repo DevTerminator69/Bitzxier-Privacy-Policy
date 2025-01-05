@@ -1,31 +1,71 @@
-# Bitzxier Privacy Policy
+Here’s a tailored Privacy Policy for the bot **Fairy**, incorporating features such as automod, anti-spam, and other functionalities similar to those mentioned:
 
-Thank you for choosing Bitzxier! This Privacy Policy outlines how we collect, use, and protect your data when you use our service. By using Bitzxier, you agree to the terms outlined in this policy.
+---
+
+# Fairy Privacy Policy
+
+Thank you for using Fairy! This Privacy Policy explains how we collect, use, and protect your data while providing our services. By using Fairy, you agree to the terms outlined in this policy.
+
+---
 
 ## Collection of Data
 
-Bitzxier is a free service, and we do not charge any fees for its use. We collect certain data to provide and improve our service. The data we collect includes:
+Fairy is a free-to-use service, and we do not charge any fees. To ensure optimal performance and deliver the best experience, we collect specific data, including:
 
-- Server IDs: We collect server IDs to manage server-specific settings such as self-roles, anti-nuke measures, giveaways, welcome messages, and member information. This data is stored securely using AES encryption standards.
+- **Server IDs**: For managing server-specific configurations such as self-roles, automated moderation, anti-spam, anti-nuke measures, giveaways, and welcome messages.
+- **User IDs**: To enforce moderation rules, blacklist users, and manage roles.
+- **Message Content**: For automated moderation features, including spam detection, blacklist word filtering, and role assignment triggers.
+
+All data is securely stored using AES encryption standards to ensure the safety of your information.
+
+---
 
 ## Use of Data
 
-We do not use or share your information with any third parties. The data collected is solely used for providing and enhancing the Bitzxier service. The terms used in this Privacy Policy are in accordance with our Terms and Conditions, unless otherwise specified.
+We do not share or sell your data to third parties. The data collected is strictly used to:
+
+- Enable features such as automod, anti-spam, anti-nuke, and self-role assignments.
+- Improve the user experience and maintain a safe environment in Discord servers.
+
+The terms used in this Privacy Policy align with our Terms of Service unless otherwise specified.
+
+---
 
 ## Message Monitoring
 
-Bitzxier monitors messages to enforce automated moderation features such as automod, anti-blacklist system, anti-nuke measures, and main role assignments. This is done to maintain a safe and enjoyable environment within Discord servers.
+Fairy monitors message content within servers to enforce automated moderation features, including:
+
+- **Automod**: Detecting and managing spam, blacklisted words, and unwanted content.
+- **Anti-Spam**: Identifying and mitigating spammy behavior.
+- **Anti-Nuke**: Protecting servers from harmful activities.
+- **Role Automation**: Assigning roles based on specific triggers.
+
+Message monitoring is strictly limited to providing these functionalities and maintaining server safety.
+
+---
 
 ## Access to Server Data
 
-Access to server data is limited to server owners and administrators. Additionally, bot developers have access to all data for maintenance and improvement purposes.
+Access to data collected by Fairy is limited as follows:
+
+- **Server Owners and Administrators**: Can view and manage server-specific configurations.
+- **Bot Developers**: Have access to all data strictly for maintenance, debugging, and improving services.
+
+We implement strict access controls to ensure your data is only accessed for legitimate purposes.
+
+---
 
 ## Data Storage and Retention
 
-We store server data, including configurations and blacklisted user IDs, for up to 7 days after the bot is removed from a Discord server. This allows for seamless reconfiguration if the bot is re-added within that timeframe. If you wish to have your data removed permanently, you may request it from the developer.
+We retain server data, including configurations and blacklisted user IDs, for **up to 7 days** after the bot is removed from your server. This allows for a seamless reconfiguration process if Fairy is re-added. If you wish to have your data permanently deleted sooner, you can contact the developer with your request.
+
+---
 
 ## Contact Us
 
-If you have any questions or concerns regarding our Privacy Policy, please feel free to contact us through our support server: [Bitzxier Support Server](https://discord.gg/bitzxier).
+If you have any questions, concerns, or requests regarding this Privacy Policy, you can reach us through our support server: [Fairy Support Server](https://discord.gg/bitzxier).
 
-Thank you for entrusting Bitzxier with your data. We are committed to maintaining your privacy and providing a secure service.
+---
+
+Thank you for choosing Fairy! We are committed to safeguarding your privacy and maintaining a secure and enjoyable experience.
+
